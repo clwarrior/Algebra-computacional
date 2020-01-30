@@ -1,2 +1,2 @@
-# -lgebra-computacional
+# Algebra-computacional
 Prácticas de la asignatura álgebra computacional
